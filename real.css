@@ -1,0 +1,73 @@
+body{
+  background-color: black;
+  background-image: url(1.jpeg);
+  background-repeat: space;
+  width: 500px;
+  background-size: 2000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  color: white;
+  text-align: center;
+  background-color: black ;
+  opacity: 0.7;
+  font-size: 50px;
+  border-radius:20px;
+}
+h2{
+  color: white;
+  text-align: center;
+  background-color:black;
+  opacity:0.7;
+  border-radius:20px;
+}
+div{
+  color: white;
+  font-size: 100px;
+  margin-bottom: 10px;
+  opacity: 0.9;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer{
+  color: white;
+  text-align: center;
+  margin-top: 300px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.BigCard{
+  text-align: center;
+  height: 300px;
+}
+.BigCard_first{
+  background-image: url(Ukraine.jpeg);
+  height: 100px;
+  background-position: center;
+  text-align: center;
+  box-shadow: 5px 5px 5px black;
+}
+.BigCard_second{
+  background-image: url(Canada.jpeg);
+  background-position: center;
+  height: 100px;
+  text-align: center; 
+  box-shadow: 5px 5px 5px black; 
+}
+.BigCard_third{
+  background-image: url(Poland.jpeg);
+  background-position: center;
+  height: 100px;
+  text-align: center;
+  box-shadow: 5px 5px 5px black;
+}
+.BigFooter{
+  font-size: 40px;
+}
+a{
+  color: white;
+}
